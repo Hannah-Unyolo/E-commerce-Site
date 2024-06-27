@@ -1,0 +1,17 @@
+
+.landing-text{
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+}
+
+.mickey{
+    color: skyblue;
+}
+.shop{
+    font-size: 12px;
+}
+
+.french{
+    background-color: skyblue;
+}

@@ -1,0 +1,41 @@
+.footer-items{
+    display: flex;
+    background-color: pink;
+    gap: 30px;
+    margin-right: 20%;
+    color: white;
+}
+
+
+.footer-icons{
+    background-color: palevioletred;
+    margin-top: 20px;
+    color: white;
+    margin-left: 80px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    padding: 2px 20px;
+}
+.input{
+    margin-top: 20px;
+    height: 30px;
+    background-color: palevioletred;
+    color: white;
+    
+}
+.links{
+    display: flex;
+    gap: 10%;
+    margin-left: 80px;
+}
+
+.name{
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+    height: 50px;
+    font-size: x-small;
+    text-align: center;
+    padding-top: 8px;
+}
